@@ -1,5 +1,2 @@
-HOLAAAAA
-zsdfdsa
-
-sdfsfsaff
-sdfsfsaff
+Hola, este es un archivo dos.
+Ya tiene un texto con sentido jejeje.
